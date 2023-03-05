@@ -2,6 +2,7 @@
   "id": "tokens",
   "title": "Tokens",
   "description": "collection of tokens for personal use",
+  "version": "0.0.1",
   "authors": [
     {
     "name": "chocolatemario"
