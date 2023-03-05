@@ -1,5 +1,5 @@
 {
-  "id": "tokens",
+  "id": "foundry_tokens",
   "title": "Tokens",
   "description": "collection of tokens for personal use",
   "authors": [
@@ -8,8 +8,12 @@
     }
     ],
   "version": "1.0.0",
+  "url": "https://github.com/tjstinso/foundry_tokens",
+  "manifest": "https://github.com/tjstinso/foundry_tokens/module.json",
+  "download": "https://github.com/tjstinso/foundry_tokens/releases/download/rc/foundry.zip",
   "compatibility": {
-    "minimum": "9",
-    "verified": "10"
+    "minimum": 10,
+    "verified": 10,
+    "maximum": 11
   }
 }
