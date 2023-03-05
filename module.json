@@ -1,0 +1,15 @@
+{
+  "id": "tokens",
+  "title": "Tokens",
+  "description": "collection of tokens for personal use",
+  "authors": [
+    {
+    "name": "chocolatemario"
+    }
+    ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "9",
+    "verified": "10"
+  }
+}
